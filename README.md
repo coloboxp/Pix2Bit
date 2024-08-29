@@ -86,6 +86,6 @@ To use Pix2Bit, simply download the source code or binary release from the [GitH
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, modify, and distribute this software. However, please retain reference to the original author.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software. However, please retain reference to the original author.
 
 
